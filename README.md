@@ -1,6 +1,6 @@
-# u_lime
+#U-Lime
 
-A new Flutter project.
+Calculate the amount of limestone that you need to apply to correct the pH of your tropical soil.
 
 ## Getting Started
 
